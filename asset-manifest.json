@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ETTS_landingPage/static/css/main.405d5119.css",
+    "main.js": "/ETTS_landingPage/static/js/main.e4fcead3.js",
+    "static/js/787.311f144a.chunk.js": "/ETTS_landingPage/static/js/787.311f144a.chunk.js",
+    "static/media/bannerImage.png": "/ETTS_landingPage/static/media/bannerImage.c16f5f3a7fb4ed725add.png",
+    "index.html": "/ETTS_landingPage/index.html",
+    "main.405d5119.css.map": "/ETTS_landingPage/static/css/main.405d5119.css.map",
+    "main.e4fcead3.js.map": "/ETTS_landingPage/static/js/main.e4fcead3.js.map",
+    "787.311f144a.chunk.js.map": "/ETTS_landingPage/static/js/787.311f144a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405d5119.css",
+    "static/js/main.e4fcead3.js"
+  ]
+}
